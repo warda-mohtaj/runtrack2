@@ -1,0 +1,2 @@
+SELECT `étudiants`.*
+FROM `étudiants`;
